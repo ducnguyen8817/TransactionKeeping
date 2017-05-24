@@ -1,2 +1,0 @@
-{ "transaction_type": "sell", "description": "Ebay gold", "date": "2017-04-19", "payment_type": "cash", "quantity": 4, "price": 1260.0 }
-{ "transaction_type": "sell", "description": "Ebay Gold", "date": "2017-04-19", "payment_type": "Cash", "quantity": 4, "price": 1270.0 }

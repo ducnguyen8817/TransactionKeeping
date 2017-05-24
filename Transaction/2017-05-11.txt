@@ -1,2 +1,0 @@
-{ "transaction_type": "buy", "description": "Valcambi Gold Bar", "date": "2017-05-11", "payment_type": "Sam Club Master card", "quantity": 8, "price": 1232.39 }
-{ "transaction_type": "buy", "description": "Valcambi Gold bar", "date": "2017-05-11", "payment_type": "Double Cash Citi Bank", "quantity": 1, "price": 1233.0 }

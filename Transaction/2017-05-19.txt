@@ -1,2 +1,0 @@
-{ "transaction_type": "buy", "description": "Valcambi Suisse Gold Bar", "date": "2017-05-19", "payment_type": "Ebay Master Card", "quantity": 6, "price": 1262.0 }
-{ "transaction_type": "buy", "description": "Valcambi Gold Bar", "date": "2017-05-19", "payment_type": "CitiBank Double Cash", "quantity": 3, "price": 1265.0 }

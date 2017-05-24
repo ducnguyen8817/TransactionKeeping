@@ -1,4 +1,0 @@
-{ "transaction_type": "sell", "description": "Credit Suisse", "date": "2017-05-25", "payment_type": "Citi Bank", "quantity": 12, "price": 1250.0 }
-{ "transaction_type": "sell", "description": "Pamp", "date": "2017-05-25", "payment_type": "Chase", "quantity": 8, "price": 1232.0 }
-{ "transaction_type": "sell", "description": "Maple Leaf", "date": "2017-05-25", "payment_type": "Pamp", "quantity": 6, "price": 1233.0 }
-{ "transaction_type": "buy", "description": "Howling wolf", "date": "2017-05-25", "payment_type": "Paypal-ducnguyen", "quantity": 3, "price": 1323.0 }

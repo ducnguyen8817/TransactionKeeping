@@ -1,1 +1,0 @@
-{ "transaction_type": "sell", "description": "Howling Wolf", "date": "2017-05-29", "payment_type": "Chase Bank", "quantity": 10, "price": 1232.0 }

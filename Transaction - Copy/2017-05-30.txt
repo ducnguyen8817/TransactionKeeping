@@ -1,1 +1,0 @@
-{ "transaction_type": "sell", "description": "American Eagle", "date": "2017-05-30", "payment_type": "Wellsfargo", "quantity": 13, "price": 1223.0 }

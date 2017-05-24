@@ -1,1 +1,0 @@
-{ "transaction_type": "buy", "description": "Gold Bar Year of the Rooster", "date": "2017-04-03", "payment_type": "#na", "quantity": 3, "price": 1247.0 }

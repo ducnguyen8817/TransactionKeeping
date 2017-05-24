@@ -1,2 +1,0 @@
-{ "transaction_type": "sell", "description": "Republic Metal Gold Bar", "date": "2017-05-21", "payment_type": "Cash", "quantity": 13, "price": 1250.0 }
-{ "transaction_type": "sell", "description": "Pamp", "date": "2017-05-21", "payment_type": "Cash", "quantity": 2, "price": 1250.0 }
