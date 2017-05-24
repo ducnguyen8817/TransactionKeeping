@@ -1,0 +1,1 @@
+{ "transaction_type": "buy", "description": "Pamp", "date": "2017-05-26", "payment_type": "Higherone", "quantity": 15, "price": 1236.0 }

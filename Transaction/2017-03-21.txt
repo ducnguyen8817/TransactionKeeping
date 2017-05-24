@@ -1,0 +1,2 @@
+{ "transaction_type": "buy", "description": "Republic Golds Bar", "date": "2017-03-21", "payment_type": "#NA", "quantity": 2, "price": 1250.0 }
+{ "transaction_type": "buy", "description": "Republic Golds Metal", "date": "2017-03-21", "payment_type": "#NA", "quantity": 3, "price": 1251.0 }

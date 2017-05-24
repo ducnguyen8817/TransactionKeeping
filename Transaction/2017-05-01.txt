@@ -1,0 +1,1 @@
+{ "transaction_type": "buy", "description": "Pamp Suisse Lady Fortuna Gold Bar", "date": "2017-05-01", "payment_type": "#NA", "quantity": 2, "price": 1268.0 }

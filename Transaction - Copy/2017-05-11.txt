@@ -1,0 +1,1 @@
+{ "transaction_type": "buy", "description": "Valcambi", "date": "2017-05-11", "payment_type": "Citi Bank", "quantity": 8, "price": 1236.0 }
