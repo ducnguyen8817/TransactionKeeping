@@ -1,0 +1,1 @@
+{ "transaction_type": "sell", "description": "Republic Metal Corporation", "date": "2017-06-01", "payment_type": "Ebay Master Card", "quantity": 18, "price": 1218.0 }

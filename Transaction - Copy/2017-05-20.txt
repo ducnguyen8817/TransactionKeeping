@@ -1,0 +1,1 @@
+{ "transaction_type": "sell", "description": "Pamp", "date": "2017-05-20", "payment_type": "Credit card", "quantity": 12, "price": 1230.0 }

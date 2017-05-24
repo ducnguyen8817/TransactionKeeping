@@ -1,0 +1,1 @@
+{ "transaction_type": "buy", "description": "Republic Metals Gold Bar", "date": "2017-04-07", "payment_type": "#NA", "quantity": 2, "price": 1270.0 }

@@ -1,0 +1,2 @@
+{ "transaction_type": "buy", "description": "Pamp Suisse Lady Fortuna", "date": "2017-03-20", "payment_type": "#NA", "quantity": 2, "price": 1239.0 }
+{ "transaction_type": "buy", "description": "Pamp Suisse Lady Fortuna", "date": "2017-03-20", "payment_type": "#NA", "quantity": 1, "price": 1238.0 }
